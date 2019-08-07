@@ -1,9 +1,7 @@
 #!/usr/bin/python -tt
 
 # cisco-ios-audit parses a Cisco IOS configuration file and generates a report 
-# to efficiently perform an IT Security Audit
-# Copyright: (c) 2015 Jonar M.
-# License: BSD, see LICENSE for more details.
+# to efficiently perform an Audit of IOS Devices
 
 from ciscoconfparse import CiscoConfParse
 import sys
